@@ -1,4 +1,4 @@
-#cs2_video.txt Patch by MartinDawgor
+# cs2_video.txt Patch by MartinDawgor
 
 This is an optimized graphics settings configuration for the CS2 game, which consists of mixed settings including CS2, CSGO, Dota2.
 All parameters are working and configured for performance. Use only if you understand what it means!
